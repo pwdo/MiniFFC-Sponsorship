@@ -4,5 +4,7 @@
 
 ## By Event
 
-- MiniFFC 
+- [MiniFFC](https://github.com/pwdo/Sponsorship/blob/master/MiniFFC.md)
 - FFC
+
+## Questions? Contact us: info@pwdo.org 
