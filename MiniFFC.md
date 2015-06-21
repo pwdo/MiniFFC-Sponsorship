@@ -1,4 +1,4 @@
-## Sponsorship Options 
+## MiniFFC Sponsorship Options 
 
 ### Venue (hosted)
 - Sponsor holds MiniFFC at their own venue as an ex-deal sponorship 
