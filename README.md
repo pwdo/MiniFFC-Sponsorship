@@ -1,10 +1,11 @@
 # Sponsorship 
 
-[2016 Sponsorship Overview](http://pwdo.org/PWDOx2016.pdf)
+- [2018 Overview](http://pwdo.org/2018)
+- [2017 Overview](http://pwdo.org/2017)
+- [2016 Sponsorship Overview](http://pwdo.org/PWDOx2016.pdf)
 
 ## By Event
 
-- [MiniFFC meetups, workshops, roadshows](https://github.com/pwdo/Sponsorship/blob/master/MiniFFC.md)
-- [Form Function & Class conference](http://formfunctionclass.com/sponsor.pdf)
+- [Form Function & Class](http://sponsor.formfunctionclass.com)
 
 ## Questions? Contact us: info@pwdo.org 
